@@ -1,27 +1,27 @@
-# Curso JStack
+# JStack Course
 
-## Visão Geral
+## Overview
 
-Neste repositório, você encontrará os projetos e exercícios práticos realizados durante o curso de React e Node.js da JStack. Eles abrangem uma variedade de tópicos, desde conceitos básicos até práticas avançadas, para ajudar no desenvolvimento de habilidades sólidas nessas tecnologias.
+In this repository, you'll find the projects and practical exercises completed during the JStack React and Node.js course. They cover a range of topics, from basic concepts to advanced practices, aimed at helping you build strong skills in these technologies.
 
-## Conteúdo
+## Content
 
-- **Projetos React:** Esta pasta contém os projetos desenvolvidos usando React durante o curso.
-- **Projetos Node.js:** Aqui você encontrará os projetos relacionados ao back-end desenvolvidos com Node.js.
-- **Exercícios:** Esta seção inclui exercícios práticos e desafios propostos ao longo do curso.
+- **React Projects:** This folder contains the projects developed using React during the course.
+- **Node.js Projects:** Here you will find the back-end projects developed with Node.js.
+- **Exercises:** This section includes practical exercises and challenges proposed throughout the course.
 
-## Como Usar
+## How to Use
 
-Sinta-se à vontade para explorar os projetos e exercícios neste repositório. Você pode clonar este repositório para sua máquina local e executar os projetos seguindo as instruções específicas de cada um.
+Feel free to explore the projects and exercises in this repository. You can clone this repository to your local machine and run the projects following the specific instructions for each.
 
-## Contribuições
+## Contributions
 
-Se encontrar algum erro nos projetos ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é valiosa para melhorar a qualidade deste repositório.
+If you find any errors in the projects or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contribution is valuable for enhancing the quality of this repository.
 
-## Contato
+## Contact
 
-Para qualquer dúvida relacionada aos projetos ou ao curso, entre em contato comigo através do email [harturalcantara@gmail.com](mailto:seuemail@example.com).
+For any questions related to the projects or the course, contact me via email at [harturalcantara@gmail.com](mailto:harturalcantara@gmail.com).
 
-## Licença
+## License
 
-Este repositório é distribuído sob a licença [MIT](LICENSE). Sinta-se à vontade para usar e modificar o conteúdo conforme necessário.
+This repository is distributed under the [MIT](LICENSE) license. Feel free to use and modify the content as needed.
